@@ -1,0 +1,74 @@
+body {
+  font-family: "Roboto Slab", serif;
+  margin: 0%;
+}
+.wellcome {
+  font-size: 50px;
+}
+.blue {
+  color: #010a67;
+}
+.first-section {
+  display: flex;
+  width: 100%;
+  background-image: url(Untitled-1.jpg);
+  background-repeat: no-repeat;
+}
+.first-wellcome {
+  width: 50%;
+  padding-left: 80px;
+}
+.first-wellcome img {
+  width: 80%;
+}
+.button {
+  background-image: linear-gradient(#010a67, #0b212f);
+  color: white;
+  text-decoration: none;
+  padding: 10px 30px;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.nevy {
+  color: #0b212f;
+}
+.second-section {
+  display: flex;
+  width: 100%;
+  padding-left: 80px;
+  padding-top: 120px;
+}
+.second-wellcome {
+  width: 45%;
+}
+.second-wellcome img {
+  width: 80%;
+}
+.maj {
+  text-align: center;
+}
+.parents {
+  display: flex;
+  width: 100%;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.son1 {
+  width: 45%;
+  padding: 30px;
+  box-shadow: 5px 5px 40px gray;
+  margin: 50px;
+  border-left: 8px solid #010a67;
+  border-radius: 5px;
+}
+.son2 {
+  width: 45%;
+  padding: 30px;
+  box-shadow: 5px 5px 40px gray;
+  margin: 50px;
+  border-left: 8px solid #010a67;
+  border-radius: 5px;
+}
+footer p {
+  text-align: center;
+}
